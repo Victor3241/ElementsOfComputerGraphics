@@ -1,0 +1,24 @@
+﻿  clip.cpp
+  EGC_Cyrus-Beck.cpp
+  mat3.cpp
+  vec3.cpp
+  Generating Code...
+clip.obj : error LNK2019: unresolved external symbol "public: class egc::vec3 __cdecl egc::vec3::operator+(class egc::vec3 const &)const " (??Hvec3@egc@@QEBA?AV01@AEBV01@@Z) referenced in function "int __cdecl egc::lineClip_CyrusBeck(class std::vector<class egc::vec3,class std::allocator<class egc::vec3> >,class egc::vec3 &,class egc::vec3 &)" (?lineClip_CyrusBeck@egc@@YAHV?$vector@Vvec3@egc@@V?$allocator@Vvec3@egc@@@std@@@std@@AEAVvec3@1@1@Z)
+clip.obj : error LNK2019: unresolved external symbol "public: class egc::vec3 __cdecl egc::vec3::operator*(float)const " (??Dvec3@egc@@QEBA?AV01@M@Z) referenced in function "int __cdecl egc::lineClip_CyrusBeck(class std::vector<class egc::vec3,class std::allocator<class egc::vec3> >,class egc::vec3 &,class egc::vec3 &)" (?lineClip_CyrusBeck@egc@@YAHV?$vector@Vvec3@egc@@V?$allocator@Vvec3@egc@@@std@@@std@@AEAVvec3@1@1@Z)
+clip.obj : error LNK2019: unresolved external symbol "public: class egc::vec3 __cdecl egc::vec3::operator-(class egc::vec3 const &)const " (??Gvec3@egc@@QEBA?AV01@AEBV01@@Z) referenced in function "int __cdecl egc::lineClip_CyrusBeck(class std::vector<class egc::vec3,class std::allocator<class egc::vec3> >,class egc::vec3 &,class egc::vec3 &)" (?lineClip_CyrusBeck@egc@@YAHV?$vector@Vvec3@egc@@V?$allocator@Vvec3@egc@@@std@@@std@@AEAVvec3@1@1@Z)
+clip.obj : error LNK2019: unresolved external symbol "float __cdecl egc::dotProduct(class egc::vec3 const &,class egc::vec3 const &)" (?dotProduct@egc@@YAMAEBVvec3@1@0@Z) referenced in function "int __cdecl egc::lineClip_CyrusBeck(class std::vector<class egc::vec3,class std::allocator<class egc::vec3> >,class egc::vec3 &,class egc::vec3 &)" (?lineClip_CyrusBeck@egc@@YAHV?$vector@Vvec3@egc@@V?$allocator@Vvec3@egc@@@std@@@std@@AEAVvec3@1@1@Z)
+clip.obj : error LNK2019: unresolved external symbol "class egc::vec3 __cdecl egc::crossProduct(class egc::vec3 const &,class egc::vec3 const &)" (?crossProduct@egc@@YA?AVvec3@1@AEBV21@0@Z) referenced in function "int __cdecl egc::lineClip_CyrusBeck(class std::vector<class egc::vec3,class std::allocator<class egc::vec3> >,class egc::vec3 &,class egc::vec3 &)" (?lineClip_CyrusBeck@egc@@YAHV?$vector@Vvec3@egc@@V?$allocator@Vvec3@egc@@@std@@@std@@AEAVvec3@1@1@Z)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "void __cdecl destroyWindow(void)" (?destroyWindow@@YAXXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_GetMouseState referenced in function SDL_main
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_WaitEvent referenced in function SDL_main
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_RenderDrawLine referenced in function SDL_main
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_Cyrus-Beck.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "void __cdecl destroyWindow(void)" (?destroyWindow@@YAXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\user\Desktop\ECG\EGC_Cyrus-Beck\x64\Debug\EGC_Cyrus-Beck.exe : fatal error LNK1120: 18 unresolved externals

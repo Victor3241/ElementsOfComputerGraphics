@@ -1,0 +1,4 @@
+﻿  clip.cpp
+C:\Users\user\Desktop\ECG\EGC_Cyrus-Beck\EGC_Cyrus-Beck\clip.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\ECG\EGC_Cyrus-Beck\EGC_Cyrus-Beck\clip.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+  EGC_Cyrus-Beck.vcxproj -> C:\Users\user\Desktop\ECG\EGC_Cyrus-Beck\Debug\EGC_Cyrus-Beck.exe
