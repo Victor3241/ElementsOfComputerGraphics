@@ -1,0 +1,14 @@
+﻿EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "void __cdecl destroyWindow(void)" (?destroyWindow@@YAXXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_GetMouseState referenced in function SDL_main
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_WaitEvent referenced in function SDL_main
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_RenderDrawLine referenced in function SDL_main
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "bool __cdecl initWindow(void)" (?initWindow@@YA_NXZ)
+EGC_CSClip.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "void __cdecl destroyWindow(void)" (?destroyWindow@@YAXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\user\Desktop\ECG\EGC_CSClip\x64\Debug\EGC_CSClip.exe : fatal error LNK1120: 13 unresolved externals
