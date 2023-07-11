@@ -1,0 +1,5 @@
+﻿  clip.cpp
+C:\Users\user\Desktop\ECG\EGC_CSClip\EGC_CSClip\clip.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\ECG\EGC_CSClip\EGC_CSClip\clip.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\ECG\EGC_CSClip\EGC_CSClip\clip.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+  EGC_CSClip.vcxproj -> C:\Users\user\Desktop\ECG\EGC_CSClip\Debug\EGC_CSClip.exe
