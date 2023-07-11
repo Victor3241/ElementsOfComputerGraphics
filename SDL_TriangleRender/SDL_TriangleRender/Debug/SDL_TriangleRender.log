@@ -1,0 +1,17 @@
+﻿  rasterization.cpp
+  SDL_TriangleRender.cpp
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(152,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(152,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(152,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(152,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(153,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(153,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(153,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(153,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(154,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(154,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(154,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\ECG\SDL_TriangleRender\SDL_TriangleRender\SDL_TriangleRender.cpp(154,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+rasterization.lib(rasterizationValidator.obj) : warning LNK4099: PDB 'BaricentricCoordsControlLib.pdb' was not found with 'rasterization.lib(rasterizationValidator.obj)' or at 'C:\Users\user\Desktop\ECG\SDL_TriangleRender\Debug\BaricentricCoordsControlLib.pdb'; linking object as if no debug info
+  SDL_TriangleRender.vcxproj -> C:\Users\user\Desktop\ECG\SDL_TriangleRender\Debug\SDL_TriangleRender.exe
